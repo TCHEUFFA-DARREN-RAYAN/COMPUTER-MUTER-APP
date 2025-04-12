@@ -14,14 +14,14 @@ A simple and efficient Windows Forms application that allows users to schedule a
 
 To run the Mute Scheduler App locally, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone TCHEUFFA's  repository**:
    ```bash
-   git clone https://github.com/yourusername/mute-scheduler-app.git
-Open the project:
+   https://github.com/TCHEUFFA-DARREN-RAYAN/COMPUTER-MUTER-APP.git
+**Open the project:**
 
-Open the solution file MuteSchedulerApp.sln in Visual Studio.
+Open the solution file **MuteSchedulerApp.sln** in Visual Studio.
 
-Install Dependencies:
+**Install Dependencies:**
 
 The app uses the NAudio library for volume control. Make sure that the required NuGet packages are restored. If not, run the following command in the NuGet Package Manager:
 
@@ -33,7 +33,7 @@ Run the App:
 
 Press F5 in Visual Studio to build and run the app.
 
-Usage
+**Usage**
 Add a Schedule:
 
 Click the "Specific Date" button to select a specific date and time for the system to mute.
@@ -46,7 +46,7 @@ The ListBox displays all your mute schedules.
 
 You can delete a schedule by right-clicking the list item and confirming the deletion.
 
-Save & Load:
+**Save & Load:**
 
 Your mute schedules are saved automatically to a JSON file named schedule.json so that your settings persist between app sessions.
 
@@ -74,7 +74,7 @@ Push to the branch (git push origin feature-branch).
 
 Create a new Pull Request.
 
-License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -92,6 +92,10 @@ For any questions or support, feel free to contact me at [tcheuffadarren1@gmail.
 - Replace `TCHEUFFA DARREN RAYAN` with your actual GitHub username.
 - Add screenshots to the "Screenshots" section if you want to show visuals of your app. You can upload the images directly to your GitHub repository and reference them in the markdown.
 - You can update the **License** section to reflect the actual license you chose (MIT, Apache, etc.).
+
+## NOTE
+THIS WAS CREATED BY **TCHEUFFA DARREN RAYAN** A SOFTWARE DEVELOPER AND THE MAIN PURPOSE FOR ME TO CREATE THIS IS TO SHOW THE POTENTIAL I HAVE AND MY ABILITY TO SOLVE REAL WORLD SITUATUIONS, INCASE YOU NEED ANY HELP CONTACT ME HERE [tcheuffadarren1@gmail.com] 
+**LINKEDIN PROFILE:** [https://www.linkedin.com/in/tcheuffa-darren-112214327/]
 
 
 
